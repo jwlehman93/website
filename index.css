@@ -1,0 +1,23 @@
+body {
+	background-color: #73532A;
+}
+
+.main-content {
+	margin: 0 auto;
+	height: fit-content;
+	width: fit-content;
+}
+
+.main-content-title {
+	margin: 0 auto;
+	width: fit-content;
+}
+
+.show-white-space {
+	white-space: pre-wrap;
+}
+
+.homestead-display {
+        color: #4E8F38;
+}
+
